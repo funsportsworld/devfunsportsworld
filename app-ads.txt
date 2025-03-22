@@ -1,0 +1,2 @@
+# Replace with your actual AdMob publisher ID
+google.com, pub-2147591911837971, DIRECT, f08c47fec0942fa0
